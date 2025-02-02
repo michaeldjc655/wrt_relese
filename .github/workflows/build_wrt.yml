@@ -14,6 +14,7 @@ on:
           - cmcc_rax3000m_immwrt
           - jdcloud_ax6000_immwrt
           - jdcloud_ipq60xx_immwrt
+          - redmi_ax5-jdcloud_immwrt_onwifi
           - jdcloud_ipq60xx_libwrt
           - redmi_ax5_immwrt
           - redmi_ax6000_immwrt21
